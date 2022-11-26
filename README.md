@@ -31,8 +31,24 @@ Version 3.8 of Python was used to create this system. The Kinect V 2.0 serves as
 - <b>Main Menu Interfaces</b>
 <img src="img/Main.png" alt="main" width="50%" height= auto>
 
-<video width="50%" height="auto" autoplay muted>
-  <source src="img/My Video.mp4" type="video/mp4">
-</video>
+<details>
+  <summary>Upade Main Menu Interface</summary>
+  <img src="img/Main New.jpg" alt="main" width="50%" height= auto>
+</details>
 
-https://user-images.githubusercontent.com/46621608/197375059-7f3a9beb-cfab-4859-9068-f5540898f15d.mp4
+- <b>Recognition Interfaces</b>
+<img src="img/Untitled2.png" alt="main" width="50%" height= auto>
+
+- <b>Translator Menu Interface</b>
+
+
+https://user-images.githubusercontent.com/32429015/204067473-2166ba80-f1c8-40c3-9e7a-241a82db9db9.mp4
+
+
+
+## Testing
+
+## Team Member
+1. Sholikhatul Amalia - [LinkedIn](https://www.linkedin.com/in/sholikhatul-amalia)
+2. Muhammad Ilham
+3. Muhamad Dwi Arifianto - [LinkedIn](https://www.linkedin.com/in/muhamad-dwi-arifianto-b76147238)
