@@ -47,8 +47,9 @@ https://user-images.githubusercontent.com/32429015/204067473-2166ba80-f1c8-40c3-
 
 
 ## Testing
+<img src="img/Hasil.png" alt="testing">
 
 ## Team Member
-1. Sholikhatul Amalia - [LinkedIn](https://www.linkedin.com/in/sholikhatul-amalia)
+1. Sholikhatul Amalia - [LinkedIn](https://www.linkedin.com/in/sholikhatul-amalia) [Github](https://github.com/slollia)
 2. Muhammad Ilham
-3. Muhamad Dwi Arifianto - [LinkedIn](https://www.linkedin.com/in/muhamad-dwi-arifianto-b76147238)
+3. Muhamad Dwi Arifianto - [LinkedIn](https://www.linkedin.com/in/muhamad-dwi-arifianto-b76147238) [Github](https://github.com/muhdwiar)
