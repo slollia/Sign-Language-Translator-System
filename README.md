@@ -29,15 +29,15 @@ This system's development of computer technology, namely image processing to usi
 Version 3.8 of Python was used to create this system. The Kinect V 2.0 serves as the camera for the images. Using PyQT, the user interfaces are created. And CNN is machine learning chosen in image translation. Below is a screenshot of the system's user interface and simulation.
 
 - <b>Main Menu Interfaces</b>
-<img src="img/Main.png" alt="main" width="50%" height= auto>
+<img src="img/Main.png" alt="main" width="70%" height= auto>
 
 <details>
   <summary>Upade Main Menu Interface</summary>
-  <img src="img/Main New.jpg" alt="main" width="50%" height= auto>
+  <img src="img/Main New.jpg" alt="main" width="70%" height= auto>
 </details>
 
 - <b>Recognition Interfaces</b>
-<img src="img/Untitled2.png" alt="main" width="50%" height= auto>
+<img src="img/Untitled2.png" alt="main" width="70%" height= auto>
 
 - <b>Translator Menu Interface</b>
 
