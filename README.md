@@ -29,4 +29,10 @@ This system's development of computer technology, namely image processing to usi
 Version 3.8 of Python was used to create this system. The Kinect V 2.0 serves as the camera for the images. Using PyQT, the user interfaces are created. And CNN is machine learning chosen in image translation. Below is a screenshot of the system's user interface and simulation.
 
 - <b>Main Menu Interfaces</b>
-<img src="images/menu_utama.png" alt="main" width="430" height="255">
+<img src="img/Main.png" alt="main" width="50%" height= auto>
+
+<video width="50%" height="auto" autoplay muted>
+  <source src="img/My Video.mp4" type="video/mp4">
+</video>
+
+https://user-images.githubusercontent.com/46621608/197375059-7f3a9beb-cfab-4859-9068-f5540898f15d.mp4
